@@ -19,7 +19,7 @@ Graphics are implemented on HTML5 Canvas draw methods.
 
 1. Clone
 2. Run `yarn`
-3. Run `yarn start`
+3. Run `yarn dev`
 4. Act weird
 
 ![Screenshot!](/src/assets/screenshot.png "My face")
